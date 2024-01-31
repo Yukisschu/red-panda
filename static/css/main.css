@@ -1,0 +1,156 @@
+body {
+	margin: 0;
+	background: white;
+}
+
+#toolkit {
+	position: absolute;
+	width: 5%;
+	height: 100%;
+	top: 0%;
+	left: 0%;
+	/*background: #444444;*/
+	color: white; /* font colour */
+	font-size: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#user_bar {
+	position: absolute;
+	width: 75%;
+	height: 5%;
+	top: 0%;
+	left: 5%;
+	background: #666666;
+	color: white; /* font colour */
+	font-size: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#time {
+	position: absolute;
+	/* width: 20%; */
+	height: 5%;
+	top: 0%;
+	right: 0%;
+	color: #FFFFFF;
+	font-size: 20px;
+	background: green;
+}
+
+#today_sum {
+	position: absolute;
+	width: 95%;
+	height: 20%;
+	top: 5%;
+	right: 0%;
+	background: #777777;
+}
+
+.num {
+	width: 15.5%;
+	float: left; /* float align left */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: gold;
+	font-size: 20px;
+}
+.txt {
+	width: 15.5%;
+	float: left; /* float align left */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 10px;
+	color: white;
+	text-align: left; /* changed from float: center; to text-align: center; */
+}
+
+#most_comment {
+	position: absolute;
+	width: 40%;
+	height: 25%;
+	top: 25%;
+	left: 5%;
+	background: #888888;
+}
+
+#most_popular {
+	position: absolute;
+	width: 40%;
+	height: 25%;
+	top: 50%;
+	left: 5%;
+	background: #999999;
+}
+
+#latest {
+	position: absolute;
+	width: 40%;
+	height: 25%;
+	top: 75%;
+	left: 5%;
+	background: #777777;
+}
+#report_1 {
+	position: absolute;
+	width: 10%;
+	height: 25%;
+	top: 25%;
+	left: 45%;
+	background: #999999;
+}
+#report_2 {
+	position: absolute;
+	width: 10%;
+	height: 25%;
+	top: 50%;
+	left: 45%;
+	background: #888888;
+}
+#report_3 {
+	position: absolute;
+	width: 10%;
+	height: 25%;
+	top: 75%;
+	left: 45%;
+	background: #555555;
+}
+#engagement {
+	position: absolute;
+	width: 45%;
+	height: 25%;
+	top: 25%;
+	right: 0%;
+	/*background: #222222;*/
+}
+#suicidal {
+	position: absolute;
+	width: 45%;
+	height: 25%;
+	top: 50%;
+	right: 0%;
+	background: #111111;
+}
+#wordcloud {
+	position: absolute;
+	width: 25%;
+	height: 25%;
+	top: 75%;
+	right: 20%;
+	background: #333333;
+}
+
+#calendar {
+	position: absolute;
+	width: 20%;
+	height: 25%;
+	top: 75%;
+	right: 0%;
+	background: #222222;
+}
