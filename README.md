@@ -12,6 +12,6 @@ The aim of Red Panda is to:
     
 - Conduct research and experiments to investigate human-in-the-loop AI techniques to improve the summarization model using reinforcement learning from human feedback (RLHF).
     
-- Generate daily logs to document the dynamic patterns and capture more fine-grained details.
+- Generate daily logs to document the dynamic patterns and capture more fine-grained details for customised digital mental health interbentions.
 
 ![Alt text](image.png)
