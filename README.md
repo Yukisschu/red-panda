@@ -1,7 +1,4 @@
 # Red Panda
-<div align="center">
-  <img src="https://github.com/Yukisschu/red-panda/blob/main/redpanda.png?raw=true" alt="RedPanda">
-</div>
 
 [![red-panda](https://img.shields.io/badge/Status-WIP-red)](https://github.com/Yukisschu/red-panda)
 
